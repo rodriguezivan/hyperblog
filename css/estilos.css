@@ -27,3 +27,10 @@ body {
      font-weight: normal;
      font-size: 0.8em;
  }
+ #footer{
+     background: deepskyblue;
+     padding: 0.5em;
+     color: bisque;
+     font-weight: bold;
+     text-align: center;
+ }
