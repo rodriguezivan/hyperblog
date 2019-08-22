@@ -7,7 +7,7 @@ Un blog increible para el curso de [curso de Git y Github de Platzi.](http://htt
  ## Contribuir
  - Todos los comandos de Git
  - El flujo de trabajo en Github
- - El verdadero amor por las buenas prácticas*
+ - El verdadero amor por las buenas prácticas
 
 ---
 
