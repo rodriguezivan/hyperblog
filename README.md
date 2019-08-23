@@ -8,6 +8,7 @@ Un blog increible para el curso de [curso de Git y Github de Platzi.](http://htt
  - Todos los comandos de Git
  - El flujo de trabajo en Github
  - El verdadero amor por las buenas prácticas
+ - Creado por el increible Platzi Team
 
 ---
 
